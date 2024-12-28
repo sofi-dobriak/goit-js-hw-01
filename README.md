@@ -1,1 +1,2 @@
-The first homework of the JavaScript module of the FullStack Developer course
+The first homework of the JavaScript module of the FullStack Developer course + solutions for
+additional tasks from the teacher
